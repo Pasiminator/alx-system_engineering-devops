@@ -1,2 +1,2 @@
-# alx-system_engineering-devops 
-**this is code **
+#!/bin/bash
+*this is code **\n
